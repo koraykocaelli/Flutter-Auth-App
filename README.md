@@ -1,4 +1,4 @@
-📱 flutter-auth-app
+📱 Flutter-Auth-App
 
 A simple Flutter application that implements user authentication with Firebase.
 🔧 Features
